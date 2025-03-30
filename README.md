@@ -63,6 +63,5 @@ Deliverable:
 
 The main deliverable for this task is the Jupyter Notebook located in the `notebooks/` directory. This notebook demonstrates the entire process of solving the business problem using optimization techniques and the PuLP library.
 
-Further Information:
 
-For a detailed understanding of the specific business problem addressed, the mathematical formulation, and the Python implementation, please refer to the comments and explanations within the Jupyter Notebook.
+![Image](https://github.com/user-attachments/assets/1482c3df-2314-4282-9018-0428b093571c)
